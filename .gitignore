@@ -60,3 +60,6 @@ node_modules
 
 # gem
 vendor/bundle/
+
+# Ignore Spring files.
+/spring/*.pid
